@@ -1,5 +1,8 @@
 # Opinion Poll Application
-One-page website to showcase some poll sample - Work in progress.
+### One-page website to showcase some poll sample. 
+- The application shall inquiry from user without login or registration opinion to some topic in multiple choice format. 
+- The application is inquiring from user (without login or registration) opinion to some topic in multiple choice format. 
+- After answering, the app present the distribution of answers - <b> Work in progress. </b>
 </br></br>
 
 ![poll](https://github.com/JoeClos/poll-app/assets/89244648/821487e9-4ad6-4df0-87dd-dfcf5b5fe7c7)
