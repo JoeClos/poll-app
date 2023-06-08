@@ -5,7 +5,8 @@
 - After answering, the app present the distribution of answers - <b> Work in progress. </b>
 </br></br>
 
-![poll](https://github.com/JoeClos/poll-app/assets/89244648/821487e9-4ad6-4df0-87dd-dfcf5b5fe7c7)
+![poll](https://github.com/JoeClos/poll-app/assets/89244648/44a412ca-1075-42b2-a496-9bfb3cfdb47b)
+
 
 ## Technologies
  * UI
